@@ -40,5 +40,55 @@
     "text": "你后面批量加内容时，主要就是继续往这个 JSON 里加。",
     "distort": false,
     "scale": 0.95
+  },
+  {
+    "title": "【万字解说】毛姆写婚外情有多犀利？一口气读完14万字世界名著《面纱》｜Puckio名著系列",
+    "image": "./photos/001 The Painted Veil.png",
+    "type": "text",
+    "text": "BV1au4y1t7Dd",
+    "distort": true,
+    "scale": 1.2 
+  },
+    {
+    "title": "小妇人",
+    "image": "./photos/002 xiaofuren.png",
+    "type": "text",
+    "text": "test",
+    "distort": true,
+    "scale": 1.2 
+  },
+  {
+    "title": "红与黑",
+    "image": "./photos/003 red and black.png",
+    "type": "link",
+    "url": "https://www.bilibili.com/",
+    "description": "https://www.bilibili.com/video/BV1PT4y1h7Lm?vd_source=1839633d27d6082883de4f0d168dd608",
+    "distort": false,
+    "scale": 1.1
+  },
+  {
+    "title": "文字样本 03",
+    "image": "./photos/004 A MIDSUMMER NIGHT'S DREAM.png",
+    "type": "text",
+    "text": "这个对象也会参与漂浮和旋转。",
+    "distort": false,
+    "scale": 1.0
+  },
+  {
+    "title": "链接样本 04",
+    "image": "./photos/04.png",
+    "type": "link",
+    "url": "https://www.bilibili.com/",
+    "description": "点击后会在新标签页打开链接。",
+    "distort": true,
+    "scale": 1.35
+  },
+  {
+    "title": "文字样本 05",
+    "image": "./photos/05.png",
+    "type": "text",
+    "text": "你后面批量加内容时，主要就是继续往这个 JSON 里加。",
+    "distort": false,
+    "scale": 0.95
   }
 ]
